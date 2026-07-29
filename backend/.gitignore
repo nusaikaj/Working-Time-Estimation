@@ -1,0 +1,7 @@
+node_modules/
+.env
+coverage/
+
+# User-uploaded files — keep the folder structure tracked, not the contents.
+uploads/avatars/*
+!uploads/avatars/.gitkeep
