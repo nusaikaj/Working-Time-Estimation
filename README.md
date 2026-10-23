@@ -282,3 +282,9 @@ frontend/
 - Per-engineer working-hour overrides (currently one global schedule).
 - Optimistic UI updates + React Query for caching/retries instead of manual
   `useState`/`useEffect` data fetching.
+
+
+  ## Project Overview
+
+This project helps estimate working time
+and supports better task planning.
